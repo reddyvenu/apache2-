@@ -1,4 +1,4 @@
- eosts: all
+ hosts: all
   become: yes
   tasks:
   - name: "installing the apache"
